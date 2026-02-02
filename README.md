@@ -2,7 +2,7 @@
 
 **Computer Scientist | Robotics Instructor | Seeking Entry-Level Roles as an IT Support Technician and Technical Support Engineer | Aspiring Penetration Tester**
 
-I’m a Computer Science graduate from the University of London (Goldsmiths) with a passion cybersecurity. My journey into tech and cybersecurity started with the video game franchise, *Watch_Dogs*. While I’ve moved past causing city-wide blackouts with a tap on a smartphone, that spark evolved into **deep interest in computers and securing them** and **protecting people from real-world digital threats.**
+I’m a Computer Science graduate from the University of London (Goldsmiths) with a passion cybersecurity. My passion in tech and cybersecurity started with the video game franchise, *Watch_Dogs*. While I’ve moved past causing city-wide blackouts with a tap on a smartphone, that initial spark has evolved into **deep interest in computers and securing them** and **protecting people from real-world digital threats.**
 
 ---
 
@@ -10,6 +10,9 @@ I’m a Computer Science graduate from the University of London (Goldsmiths) wit
 It’s personal for me. After seeing family and friends targeted by online scams, I became fascinated by the "cyber-vigilante" side of the web—specifically scambaiters who turn the tables on malicious actors. 
 
 While my ultimate goal is **Penetration Testing**, I’m a firm believer in earning your stripes. I’m currently building my foundation by pursuing roles in **IT support and help desk roles to master networking and incident management from the ground up.**
+
+---
+### Projects
 
 ---
 
