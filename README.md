@@ -12,7 +12,13 @@ It’s personal for me. After seeing family and friends targeted by online scams
 While my ultimate goal is **Penetration Testing**, I’m a firm believer in earning your stripes. I’m currently building my foundation by pursuing roles in **IT support and help desk roles to master networking and incident management from the ground up.**
 
 ---
-### Projects
+### 📝 Projects
+
+1. **🔒 Cybersecurity Projects**
+   * ![Conducting a security audit](https://github.com/gaurav-cybersec/google-cybersec-pro-projects): Done as part of the Google Cybersecurity Professional Certificate
+   * ![Use NIST CSF to Respond to Security Incident](https://github.com/gaurav-cybersec/google-cybersec-pro-projects): Done as part of the Google Cybersecurity Professional Certificate
+     
+2. **🎓University Projects**
 
 ---
 
@@ -34,6 +40,7 @@ While my ultimate goal is **Penetration Testing**, I’m a firm believer in earn
 
 ### 📖 What I'm Up To
 * 🔭 **Currently working on:** Building hands-on skills via TryHackMe.
+* Working on upskilling in Cybersecurity while working as a **Robotics and Coding Teacher** at Futurum Academy.
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/swiftsausages.png)
 
@@ -41,12 +48,6 @@ While my ultimate goal is **Penetration Testing**, I’m a firm believer in earn
 * 🎓 **Qualifications:** * BSc (Hons) Computer Science (University of London/Goldsmiths)
     * ISC² Certified in Cybersecurity (CC)
     * AWS Academy Graduate (Cloud Foundations)
-
----
-
-### 📊 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav-cybersec&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-cybersec&layout=compact&theme=radical)
 
 ---
 
