@@ -15,8 +15,9 @@ While my ultimate goal is **Penetration Testing**, I’m a firm believer in earn
 ### 📝 Projects
 
 1. **🔒 Cybersecurity Projects**
-   * ![Conducting a security audit](https://github.com/gaurav-cybersec/google-cybersec-pro-projects): Done as part of the Google Cybersecurity Professional Certificate
-   * ![Use NIST CSF to Respond to Security Incident](https://github.com/gaurav-cybersec/google-cybersec-pro-projects): Done as part of the Google Cybersecurity Professional Certificate
+   * ![Conducting a security audit](https://github.com/gaurav-cybersec/google-cybersec-pro-projects)
+   * ![Analyze network layer communicaiton using tcpdump](https://github.com/gaurav-cybersec/google-cybersec-pro-projects)
+   * ![Use NIST CSF to Respond to Security Incident](https://github.com/gaurav-cybersec/google-cybersec-pro-projects)
      
 2. **🎓University Projects**
 
