@@ -19,6 +19,7 @@ While my ultimate goal is **Penetration Testing**, I’m a firm believer in earn
    * ![Analyze network layer communicaiton using tcpdump](https://github.com/gaurav-cybersec/google-cybersec-pro-projects)
    * ![Use NIST CSF to Respond to Security Incident](https://github.com/gaurav-cybersec/google-cybersec-pro-projects)
    * ![Use Linux commands to manage file permissions](https://github.com/gaurav-cybersec/google-cybersec-pro-projects)
+   * [Apply filters to SQL queries](https://github.com/gaurav-cybersec/google-cybersec-pro-projects)
      
 2. **🎓University Projects**
 
